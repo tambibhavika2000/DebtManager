@@ -23,6 +23,6 @@ Video Link: https://youtu.be/n-CEaHdhRds
  Run command : python manage.py runserver
  Login with your credentials and enjoy !!
 
-Presentation: https://drive.google.com/file/d/1NCdUQCWbXtuI_TaUO67kYuxGz0KWpODw/view?usp=sharing
+Presentation: https://drive.google.com/file/d/1LFGvxgM3ppRCyw6SP2kg6zmV5TaFzv7H/view?usp=sharing
 
 
