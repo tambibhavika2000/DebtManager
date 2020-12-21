@@ -7,7 +7,7 @@ Debt Manager will act as a financial manager. It will keep track of earnings, sa
 
  Video Link: https://youtu.be/n-CEaHdhRds
 
- Requirements: 
+ # Requirements: 
 
  Install the required libraries using following commands 
  
@@ -16,8 +16,7 @@ Debt Manager will act as a financial manager. It will keep track of earnings, sa
  pip install pillow <br />
  pip install pytesseract <br />
  
- How to run :
- <br />
+#  How to run :<br />
  Navigate to the directory dm <br /> 
  Run command : python manage.py runserver <br />
  Login with your credentials and enjoy !!<br />
